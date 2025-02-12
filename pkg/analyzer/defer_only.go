@@ -35,6 +35,7 @@ var (
 		"github.com/jmoiron/sqlx",
 		"github.com/jackc/pgx/v5",
 		"github.com/jackc/pgx/v5/pgxpool",
+		"gitlab.ozon.ru/platform/go/database-pg/v2/types",
 	}
 )
 
